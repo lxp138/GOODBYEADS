@@ -161,6 +161,27 @@ ff02::3 ip6-allhosts
 0.0.0.0 data.video.ptqy.gitv.tv
 0.0.0.0 applog.uc.cn
 0.0.0.0 pb.bi.gitv.tv
+0.0.0.0 u.aiseewhaley.aisee.tv
+0.0.0.0 deadlink3.aiseewhaley.aisee.tv
+0.0.0.0 deadlink2.aiseewhaley.aisee.tv
+0.0.0.0 serviceaccount.aiseewhaley.aisee.tv
+0.0.0.0 media3.aiseewhaley.aisee.tv
+0.0.0.0 vod3.aiseewhaley.aisee.tv
+0.0.0.0 upgrade-hdtv.cp21.ott.cibntv.net
+0.0.0.0 proxy.upgrade.letv.com
+0.0.0.0 uc3.aiseewhaley.aisee.tv
+0.0.0.0 data.capture.atianqi.com
+0.0.0.0 aps.amap.com
+0.0.0.0 opinfo3.aiseewhaley.aisee.tv
+0.0.0.0 fp-bj.fengkongcloud.com
+0.0.0.0 antirobot-api.fengkongcloud.com
+0.0.0.0 4415479563394.help.tools.cp21.ott.cibntv.net
+0.0.0.0 cloudconf.fengkongcloud.com
+0.0.0.0 data-scloud.cp21.ott.cibntv.net
+0.0.0.0 api-s5.cp21.ott.cibntv.net
+0.0.0.0 alert.kuyun.com
+0.0.0.0 ad-template.kuyun.com
+0.0.0.0 rec3.aiseewhaley.aisee.tv
 # --------------------------------------------
 # √ S A Y  G O O D B Y E  T O  A D S
 # --------------------------------------------
