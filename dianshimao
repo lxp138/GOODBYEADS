@@ -161,6 +161,33 @@ ff02::3 ip6-allhosts
 0.0.0.0 data.video.ptqy.gitv.tv
 0.0.0.0 applog.uc.cn
 0.0.0.0 pb.bi.gitv.tv
+||ad3.aginomoto.com^$important
+||pic1.ptqy.gitv.tv^$important
+||scs-hcdn.ptqy.gitv.tv^$important
+||msg.ptqy.gitv.tv^$important
+||t7z.cupid.ptqy.gitv.tv^$important
+||pic6.inter.ptqy.gitv.tv^$important
+||bus3.aiseewhaley.aisee.tv^$important
+||bus2.aiseewhaley.aisee.tv^$important
+||bus.aiseewhaley.aisee.tv^$important
+||tracker.p2pvod.aiseewhaley.aisee.tv^$important
+||serviceaccount3.aiseewhaley.aisee.tv^$important
+||serviceaccount2.aiseewhaley.aisee.tv^$important
+||img.aiseewhaley.aisee.tv^$important
+||aisee.tv^
+||trade.vip.ptqy.gitv.tv^$important
+||cms.ptqy.gitv.tv^$important
+||pic4.inter.ptqy.gitv.tv^$important
+||tqy.gitv.tv^
+||itv.ptqy.gitv.tv^$important
+/googleads.$~script,domain=~googleads.github.io
+/pagead/lvz?
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
+||inter.ptqy.gitv.tv^$important
+||stv.ptqy.gitv.tv^$important
+
 # --------------------------------------------
 # √ S A Y  G O O D B Y E  T O  A D S
 # --------------------------------------------
