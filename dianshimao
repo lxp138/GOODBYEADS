@@ -161,31 +161,66 @@ ff02::3 ip6-allhosts
 0.0.0.0 data.video.ptqy.gitv.tv
 0.0.0.0 applog.uc.cn
 0.0.0.0 pb.bi.gitv.tv
-||ad3.aginomoto.com^$important
-||pic1.ptqy.gitv.tv^$important
-||scs-hcdn.ptqy.gitv.tv^$important
-||msg.ptqy.gitv.tv^$important
-||t7z.cupid.ptqy.gitv.tv^$important
-||pic6.inter.ptqy.gitv.tv^$important
-||bus3.aiseewhaley.aisee.tv^$important
-||bus2.aiseewhaley.aisee.tv^$important
-||bus.aiseewhaley.aisee.tv^$important
-||tracker.p2pvod.aiseewhaley.aisee.tv^$important
-||serviceaccount3.aiseewhaley.aisee.tv^$important
-||serviceaccount2.aiseewhaley.aisee.tv^$important
-||img.aiseewhaley.aisee.tv^$important
-||aisee.tv^
-||trade.vip.ptqy.gitv.tv^$important
-||cms.ptqy.gitv.tv^$important
-||pic4.inter.ptqy.gitv.tv^$important
-||tqy.gitv.tv^
-||itv.ptqy.gitv.tv^$important
-||google.com/pagead/
-||static.doubleclick.net^$domain=youtube.com
-||youtube.com/get_midroll_
-||inter.ptqy.gitv.tv^$important
-||stv.ptqy.gitv.tv^$important
-
+0.0.0.0 ad3.aginomoto.com^$important
+0.0.0.0 scs-hcdn.ptqy.gitv.tv
+0.0.0.0 msg.ptqy.gitv.tv
+0.0.0.0 t7z.cupid.ptqy.gitv.tv
+0.0.0.0 bus3.aiseewhaley.aisee.tv
+0.0.0.0 bus2.aiseewhaley.aisee.tv
+0.0.0.0 bus.aiseewhaley.aisee.tv
+0.0.0.0 tracker.p2pvod.aiseewhaley.aisee.tv
+0.0.0.0 serviceaccount3.aiseewhaley.aisee.tv
+0.0.0.0 serviceaccount2.aiseewhaley.aisee.tv
+0.0.0.0 img.aiseewhaley.aisee.tv
+0.0.0.0 aisee.tv
+0.0.0.0 trade.vip.ptqy.gitv.tv
+0.0.0.0 cms.ptqy.gitv.tv
+0.0.0.0 tqy.gitv.tv
+0.0.0.0 itv.ptqy.gitv.tv
+0.0.0.0 google.com/pagead/
+0.0.0.0 static.doubleclick.net^$domain=youtube.com
+0.0.0.0 youtube.com/
+0.0.0.0 inter.ptqy.gitv.tv
+0.0.0.0 stv.ptqy.gitv.tv
+0.0.0.0 rr1---sn-i3belnl7.googlevideo.com
+0.0.0.0 tracker.p2pvod.aiseewhaley.aisee.tv
+0.0.0.0 pcadfe.cdn-go.cn^$important
+0.0.0.0 ott.cibntv.net^$important
+0.0.0.0 rpt-gdt.play.aiseet.atianqi.com
+0.0.0.0 vfiles.gtimg.cn
+0.0.0.0 easytomessage.com
+0.0.0.0 connect.play.aiseet.atianqi.com
+0.0.0.0 data.tvguo.tv
+0.0.0.0 dx-baiducdnct.inter.iqiyi.com
+0.0.0.0 tcqcloudcdnct.inter.iqiyi.com
+0.0.0.0 baiducdnct.inter.iqiyi.com
+0.0.0.0 ptqy.gitv.tv
+0.0.0.0 msg.ptqy.gitv.tv
+0.0.0.0 aiseewhaley.aisee.tv
+0.0.0.0 piq.in-neo.cn
+0.0.0.0 pb.bi.gitv.tv
+0.0.0.0 baiducdnct.inter.ptqy.gitv.tv
+0.0.0.0 scs-hcdn.ptqy.gitv.tv
+0.0.0.0 t7z.cupid.ptqy.gitv.tv
+0.0.0.0 info.juduoping.com
+0.0.0.0 stv.ptqy.gitv.tv
+0.0.0.0 agnes.www.cp21.ott.cibntv.net
+0.0.0.0 dc.cp21.ott.cibntv.net
+0.0.0.0 s.webp2p.cp21.ott.cibntv.net
+0.0.0.0 policy-cde.cp21.ott.cibntv.net
+0.0.0.0 sso.cp21.ott.cibntv.net
+0.0.0.0 tcqcloudcdnct.inter.ptqy.gitv.tv
+0.0.0.0 flux.hcdn.ptqy.gitv.tv
+0.0.0.0 gitv.tv^$important
+0.0.0.0 pic7.inter.ptqy.gitv.tv
+0.0.0.0 pic5.inter.ptqy.gitv.tv
+0.0.0.0 track.plugins.kuyun.com
+0.0.0.0 logonext.tv.kuyun.com
+0.0.0.0 apm-misaka.snm0516.aisee.tv
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 10075.x.adanxing.com
+0.0.0.0 rhcdn.verycloud.cn
+0.0.0.0 mixer.cupid.ptqy.gitv.tv^$important
 # --------------------------------------------
 # √ S A Y  G O O D B Y E  T O  A D S
 # --------------------------------------------
